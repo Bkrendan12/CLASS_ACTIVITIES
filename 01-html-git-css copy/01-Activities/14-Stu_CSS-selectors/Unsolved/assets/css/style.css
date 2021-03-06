@@ -1,0 +1,43 @@
+/* ASTRISK selector will apply the font below to all the text on the page */
+* {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  }
+
+/* This body selector changes the background color of the entire page */
+body {
+  background-color: lemonchiffon;
+}
+
+/* these properties and values will be given to both the HEADER and the FOOTER */
+header,
+footer {
+  width: 100%;
+  height: 100px;
+  line-height: 100px;
+  color: #f0ead6;
+  background-color: #191970;
+}
+
+/* a more semantic way of combining an <img> with <p> text underneath it */
+figure {
+  width: 200px;
+  background-color: #f0ead6;
+}
+
+/* CLASS selector for contact section making the text bold */
+.highlighted-text {
+  font-weight: bolder;
+}
+
+/* ID selector giving the CONTACT section a black banground */
+#contact-section {
+  background-color: #f0ead6;
+}
+
+/* WHAT ARE PSEUDO-CLASSES? */
+/* pseudo-classes are added to your class selector name in css
+  to add additional styles to the properties/values you give */
+
+/* examples include, the hover function, mouse over, focus and many more */
+/* psuedo classes are actions that will happen when you click or move over
+   somthing on your webpage that isnt necessarily */

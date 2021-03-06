@@ -1,0 +1,29 @@
+/* TODO: Add typography */
+.section {
+    background-color: #a49727;
+    font-family: Lucida Grande,Lucida Sans Unicode,Lucida Sans,Geneva,Verdana,sans-serif; 
+    text-decoration: dotted;
+}
+
+/* Fact 1 */
+#fact-1 {
+  font-weight: bold;
+  text-decoration: dotted;
+}
+
+/* TODO: Fact 2 */
+#fact-2 {
+  font-size: 24px;
+  text-decoration-line: underline;
+
+}
+
+/* TODO: Fact 3 */
+#fact-3 {
+  line-height: 50px;
+  text-decoration: dotted;
+}
+
+p {
+    text-decoration: dotted;
+}
