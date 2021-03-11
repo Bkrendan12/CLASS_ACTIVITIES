@@ -1,0 +1,31 @@
+
+html, body {
+    background-color: bisque;
+    margin:0;
+    /* padding:0; */
+}
+
+header {
+    background-color: rgb(166, 242, 182);
+    line-height: 100px;
+    width: 100%;
+    
+}
+
+ul {
+    text-align: right;
+    font-size: 40px;
+    padding-right: 20px;
+}
+
+ul li {
+    display: inline-block;
+    padding-right: 15px;  
+}
+
+a {
+    text-decoration: none;
+    font-family: 'Recursive', sans-serif;
+}
+
+
